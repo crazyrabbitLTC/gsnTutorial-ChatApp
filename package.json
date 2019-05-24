@@ -7,7 +7,8 @@
     "test": "test"
   },
   "dependencies": {
-    "zos": "^2.3.0-rc.2"
+    "zos": "^2.3.0-rc.3",
+    "zos-lib": "^2.2.3"
   },
   "devDependencies": {},
   "scripts": {

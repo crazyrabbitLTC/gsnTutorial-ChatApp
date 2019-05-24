@@ -1,0 +1,26 @@
+{
+  "name": "gsntutorial-chatapp",
+  "version": "1.0.0",
+  "description": "gsnTutorial-chatapp",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "zos": "^2.3.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyrabbitLTC/gsnTutorial-ChatApp.git"
+  },
+  "author": "Dennison Bertram @ Zeppelin.solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crazyrabbitLTC/gsnTutorial-ChatApp/issues"
+  },
+  "homepage": "https://github.com/crazyrabbitLTC/gsnTutorial-ChatApp#readme"
+}
